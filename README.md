@@ -35,7 +35,7 @@ Before setting up and running the project, ensure you have the following install
 
 The project is structured as follows:
 
-
+```
 cucumber-java-selenium-framework/
 ├── src/
 │   ├── main/
@@ -52,7 +52,7 @@ cucumber-java-selenium-framework/
 │                   └── features/
 ├── pom.xml
 └── README.md
-
+```
 
 - `src/main/java/com/example/pages/`: Contains page object classes that model the web pages' elements and actions.
 - `src/main/java/com/example/stepdefinitions/`: Contains the step definition classes that map Gherkin steps to Java code.
