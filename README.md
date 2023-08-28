@@ -46,6 +46,7 @@ cucumber-java-selenium-framework/
 │   │               ├── pages/
 │   │               ├── stepdefinitions/
 │   │               └── utils/
+│   │               └── pageObjects/
 │   └── test/
 │       └── java/
 │           └── com/
