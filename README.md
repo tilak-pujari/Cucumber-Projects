@@ -19,7 +19,6 @@ This repository provides a basic setup for automating web application testing us
 ## Prerequisites
 
 Before setting up and running the project, ensure you have the following installed:
-
 - Java Development Kit (JDK)
 - Maven
 - Your preferred IDE ( Eclipse)
