@@ -14,7 +14,10 @@ This repository demonstrates the usage of the Cucumber framework with Java and S
 
 ## Introduction
 
-This repository provides a basic setup for automating web application testing using Cucumber, Java, and Selenium. Cucumber allows you to write feature files using Gherkin language, which provides a structured and human-readable way to describe application behavior. Step definitions written in Java are associated with these features to perform actions and assertions on the application.
+This repository provides a basic setup for automating web application testing using Cucumber, Java, and Selenium.
+ Cucumber allows you to write feature files using Gherkin language, which provides a structured and human-readable 
+ way to describe application behavior. Step definitions written in Java are associated with these features to perform
+  actions and assertions on the application.
 
 ## Prerequisites
 
@@ -76,7 +79,8 @@ Feature: Login Feature
 
 ## Writing Step Definitions
 
-Implement step definitions in Java in the `src/main/java/com/example/stepdefinitions/` directory. Associate these steps with the Gherkin steps in feature files.
+Implement step definitions in Java in the `src/main/java/com/example/stepdefinitions/` directory. 
+Associate these steps with the Gherkin steps in feature files.
 
 
 ## Running Tests
@@ -91,7 +95,8 @@ This command will execute the tests defined in the feature files using the assoc
 
 ## Reports
 
-Test reports will be generated in the `target/cucumber-reports` directory after running the tests. You can find HTML reports with detailed information about the test execution.
+Test reports will be generated in the `target/cucumber-reports` directory after running the tests.
+ You can find HTML reports with detailed information about the test execution.
 
 ## Contributing
 
