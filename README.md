@@ -93,8 +93,7 @@ This command will execute the tests defined in the feature files using the assoc
 
 ## Reports
 
-Test reports will be generated in the `target/cucumber-reports` directory after running the tests.
- You can find HTML reports with detailed information about the test execution.
+Test reports will be generated in the `target/cucumber-reports` directory after running the tests. You can find HTML reports with detailed information about the test execution.
 
 ## Contributing
 
