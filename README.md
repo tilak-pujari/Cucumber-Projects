@@ -1,6 +1,7 @@
 # Cucumber Framework with Java and Selenium
 
-This repository demonstrates the usage of the Cucumber framework with Java and Selenium for automated testing of web applications. Cucumber is a popular BDD (Behavior-Driven Development) tool that allows you to define application behavior in a natural language format.
+This repository demonstrates the usage of the Cucumber framework with Java and Selenium for automated testing of web applications.
+ Cucumber is a popular BDD (Behavior-Driven Development) tool that allows you to define application behavior in a natural language format.
 
 ## Table of Contents
 
@@ -14,10 +15,7 @@ This repository demonstrates the usage of the Cucumber framework with Java and S
 
 ## Introduction
 
-This repository provides a basic setup for automating web application testing using Cucumber, Java, and Selenium.
- Cucumber allows you to write feature files using Gherkin language, which provides a structured and human-readable 
- way to describe application behavior. Step definitions written in Java are associated with these features to perform
-  actions and assertions on the application.
+This repository provides a basic setup for automating web application testing using Cucumber, Java, and Selenium. Cucumber allows you to write feature files using Gherkin language, which provides a structured and human-readable  way to describe application behavior. Step definitions written in Java are associated with these features to perform actions and assertions on the application.
 
 ## Prerequisites
 
