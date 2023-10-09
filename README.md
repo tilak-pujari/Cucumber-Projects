@@ -6,11 +6,11 @@ This repository demonstrates the usage of the Cucumber framework with Java and S
 
 - [Introduction]
 - [Prerequisites]
-- [Setup](#setup)
-- [Project Structure](#project-structure)
-- [Writing Features](#writing-features)
-- [Running Tests](#running-tests)
-- [Reports](#reports)
+- [Setup]
+- [Project Structure]
+- [Writing Features]
+- [Running Tests]
+- [Reports]
 
 ## Introduction
 
